@@ -13,8 +13,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the rest of the project files to the container
 COPY . .
 
-# Expose the port (if your application needs it, e.g., Flask or FastAPI)
-# Not needed for your script with GUI.
-
 # Default command to run the project
 CMD ["python", "main.py"]
