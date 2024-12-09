@@ -1,0 +1,4 @@
+numpy==1.24.1
+yfinance==0.2.50
+matplotlib==3.7.3
+ruff==0.0.289
