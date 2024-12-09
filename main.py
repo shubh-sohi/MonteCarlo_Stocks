@@ -12,7 +12,6 @@ from tkinter import *
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import (FigureCanvasTkAgg, NavigationToolbar2Tk)
 
-
 class MonteCarloStocks:
     """
     This is a class that uses the Monte Carlo formulas using mu, standard deviation and variance.
