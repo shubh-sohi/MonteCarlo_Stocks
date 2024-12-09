@@ -1,3 +1,10 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+__pycache__/
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
